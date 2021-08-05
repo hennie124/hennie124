@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hennie124/hennie124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<h1>Welcome to Hennies repository</h1>
+<h1>Welcome to Hennie's repository</h1>
 	
 <h3>Languages<h3>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
@@ -35,7 +33,7 @@ Here are some ideas to get you started:
 <h3>OTHERS<h3>
 <img src="https://img.shields.io/badge/Adobeillustrator-FF9A00?style=flat-square&logo=Adobeillustrator&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AdobePremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/></a>
-	
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>imhyeonjin512.gmail.com</a>	
 
 
 
