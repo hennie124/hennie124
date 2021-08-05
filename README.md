@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Swift-3766AB?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Androidstudio-3766AB?style=flat-square&logo=Androidstudio&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Xcode-3766AB?style=flat-square&logo=Xcode&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Adobeillustrator-3766AB?style=flat-square&logo=Adobeillustrator&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Adobeprimeierpro-3766AB?style=flat-square&logo=Adobeprimeierpro&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Swift-F47343?style=flat-square&logo=Swift&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=Androidstudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobeillustrator-FF9A00?style=flat-square&logo=Adobeillustrator&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobeprimeierpro-9999FF?style=flat-square&logo=Adobeprimeierpro&logoColor=white"/></a>
 	
 
 
