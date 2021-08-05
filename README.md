@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <h3>OTHERS<h3>
 <img src="https://img.shields.io/badge/Adobeillustrator-FF9A00?style=flat-square&logo=Adobeillustrator&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AdobePremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>imhyeonjin512.gmail.com</a>	
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white/imhyeonjin512.gmail.com"/></a>	
 
 
 
